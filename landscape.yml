@@ -3294,6 +3294,12 @@ landscape:
             logo: aws-lambda.svg
             twitter: 'https://twitter.com/awscloud'
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            - item:
+            name: AWS Lambda Test
+            homepage_url: 'https://aws.amazon.com/lambda/'
+            logo: aws-lambda.svg
+            twitter: 'https://twitter.com/awscloud'
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
             name: Azure Functions
             homepage_url: 'https://azure.microsoft.com/en-us/services/functions/'
